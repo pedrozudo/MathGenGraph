@@ -62,7 +62,7 @@ class Graph(object):
     def graph2dot(self):
         dot_string = self._to_dot()
         g = Source(dot_string)
-        diagram_name = os.path.join(PATH_NAME,'diagrams/{}.gv').format(self.scientist_id)
+        diagram_name = os.path.join(PATH_NAME,'diagrams,{}.gv').format(self.scientist_id)
         g.render(diagram_name, view=False)
 
     def _to_dot(self):
