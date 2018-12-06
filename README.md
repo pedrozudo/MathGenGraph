@@ -5,7 +5,7 @@ Create a genealogy graph for a scientist on [Mathematics Genealogy Project](http
 Make sure the following dependencies are installed:
 ```
 pip install requests
-pip install BeautifulSoup
+pip install beautifulsoup4
 pip install graphviz
 ```
 
