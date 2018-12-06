@@ -29,4 +29,4 @@ python mathgengraph/mathgengraph.py 110960
 ```
 Most of the time is spent on scraping the website. The name of the "currently scraped" scientist is printed out to the terminal.
 
-In `mathgengraph.digrams` you can now find the file `110960.pdf`. Open it.
+In `mathgengraph.digrams` you can now find the file `110960.pdf`. [Here is the result](https://github.com/pedrozudo/MathGenGraph/blob/master/mathgengraph/diagrams/110960.gv.pdf).
