@@ -4,10 +4,9 @@ Create a genealogy graph for a scientist on [Mathematics Genealogy Project](http
 ## Dependencies
 Make sure the following dependencies are installed:
 ```
-python pip install pickle
-python pip install requests
-python pip install BeautifulSoup
-python pip install graphviz
+pip install requests
+pip install beautifulsoup4
+pip install graphviz
 ```
 
 
