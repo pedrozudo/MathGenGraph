@@ -6,8 +6,10 @@ Make sure the following dependencies are installed:
 ```
 pip install requests
 pip install beautifulsoup4
+pip install lxml
 pip install graphviz
 ```
+**For Windows users:** You might encounter some troubles when rendering the dot representation of the graph to a pdf. The answer to [this stackoverflow post](https://stackoverflow.com/a/44005139) might help.
 
 
 ## Instructions
