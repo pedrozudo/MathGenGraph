@@ -1,5 +1,5 @@
 # MathGenGraph
-Create a genealogy graph for a scientist on [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu). The code has been test on python3.6.
+Create a genealogy graph for a scientist on [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu). The code has been tested on python3.6.
 
 ## Dependencies
 Make sure the following dependencies are installed:
